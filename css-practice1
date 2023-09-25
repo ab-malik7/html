@@ -1,0 +1,23 @@
+#one {
+    background-color: pink;
+}
+.heading {
+    color: red;
+}
+
+.click {
+    color: rgb(87, 114, 55);
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: fantasy;
+}
+
+.outer{
+font-size: 55px;
+}
+
+.inner{
+font-size: 20px;
+}
